@@ -1,5 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&height=300&color=EEC8CF&text=Welcome%20to%20my%20github%20profile&fontSize=20&textBg=true&animation=fadeIn&fontColor=AE5969&fontAlign=50">
-#🌷 About Me: <br>
+#🌷 About Me: 
 🎓 Computer Science student  <br>💻 Passionate about development  <br>🎨 Love design and creativity  <br>🚀 Curious mind. Constant learner.<br>🌱 Currently learning: AI & modern web technologies
 
 
