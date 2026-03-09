@@ -1,4 +1,4 @@
-#🌷 About Me: 
+# 🌷 About Me: 
 🎓 Computer Science student  <br>💻 Passionate about development  <br>🎨 Love design and creativity  <br>🚀 Curious mind. Constant learner.<br>🌱 Currently learning: AI & modern web technologies
 
 
